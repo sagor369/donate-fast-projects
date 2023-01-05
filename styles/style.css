@@ -164,3 +164,21 @@
  .find-box{
     
  }
+.footer{
+    background-color: #0b0d17ea;
+    text-align: center;
+    padding: 80px;
+
+}
+.footer h3{
+    color: #FF5959;
+    margin: 0;
+    padding-bottom: 10px;
+    font-size: 45px;
+}
+.footer h6{
+    color: #ffffffb2;
+    margin: 0;
+    padding-top: 0;
+    font-size: 14px;
+}
